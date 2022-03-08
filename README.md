@@ -1,6 +1,12 @@
 # shvr
 
-bash, vim, regexp
+bash, vim, regex
+
+## links
+
+- [bash](https://github.com/substack/fmmn/blob/master/day1/unix.md)
+- [regex](https://github.com/substack/fmmn/blob/master/day1/regex.md)
+- [vim](https://github.com/substack/fmmn/blob/master/day1/vim.md)
 
 ## bash
 

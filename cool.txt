@@ -1,6 +1,0 @@
-README.md
-cool.txt
-doc
-src
-wow_cp
-xxx
